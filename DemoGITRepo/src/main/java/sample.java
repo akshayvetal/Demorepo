@@ -5,6 +5,7 @@ public class sample {
 		System.out.println("Kiran");
 		System.out.println("Kiran");
 		System.out.println("Akshay");
+		System.out.println("Akshay vetal");
 	}
 
 }
